@@ -1,5 +1,5 @@
 # Netflix-Clone
-Using TMDB API to create look and feel as link NetFlix
+Using TMDB API to create look and feel as like NetFlix
 
 In this project I have used, React Hooks, React Router Dom, Bootstrap, FontAwesome, Axios, React Modal
 
